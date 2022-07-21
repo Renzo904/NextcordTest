@@ -1,0 +1,9 @@
+.env
+
+.env.developement
+
+.vscode
+
+__pycache__
+
+install_packages.py
